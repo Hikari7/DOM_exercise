@@ -17,8 +17,6 @@ paragraph.innerHTML = paragraph.innerText
   )
   .join(" ");
 
-// const sentences = texts.innerHTML.split(" ");
-// console.log(sentences);
 // const arrayText = Array.from(texts.innerHTML.split(" "));
 
 // const newSentences = sentences.map((sentence) => {
